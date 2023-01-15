@@ -1,0 +1,6 @@
+D:\algoPill\BE\BE\bin\Debug\BE.exe.config
+D:\algoPill\BE\BE\bin\Debug\BE.exe
+D:\algoPill\BE\BE\bin\Debug\BE.pdb
+D:\algoPill\BE\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+D:\algoPill\BE\BE\obj\Debug\BE.exe
+D:\algoPill\BE\BE\obj\Debug\BE.pdb

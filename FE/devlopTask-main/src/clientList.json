@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "fullName": "ester",
+        "englishName": "ester",
+        "TZ": "315124",
+        "AccountNumber": "290",
+        "city": "bneybrack",
+        "bank": "23",
+        "bankBranches": "234"
+    },
+    {
+        "id": 2,
+        "fullName": "ester",
+        "englishName": "gino",
+        "TZ": "315124",
+        "AccountNumber": "290",
+        "city": "bneybrack",
+        "bank": "23",
+        "bankBranches": "234"
+    }
+    ,
+    {
+        "id": 3,
+        "fullName": "ester",
+        "englishName": "hers",
+        "TZ": "315124",
+        "AccountNumber": "290",
+        "city": "bneybrack",
+        "bank": "23",
+        "bankBranches": "234"
+    },
+    {
+        "id": 4,
+        "fullName": "ester",
+        "englishName": "shalom",
+        "TZ": "315124",
+        "AccountNumber": "290",
+        "city": "bneybrack",
+        "bank": "23",
+        "bankBranches": "234"
+    }
+]
